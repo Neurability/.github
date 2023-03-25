@@ -1,2 +1,3 @@
-# .github
-Neurability org public repo
+# Neurability
+
+Find us at http://neurability.org
